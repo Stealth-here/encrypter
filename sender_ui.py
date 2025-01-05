@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-from client import client  # Import your client function here
+from client import client 
 
 # Function to send the file to the server
 def send_file():
